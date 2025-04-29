@@ -37,7 +37,7 @@ def set_git_credentials():
 
 # Main logic to make commits
 def make_daily_commits():
-    commit_count = random.randint(2, 20)
+    commit_count = random.randint(2, 35)
     print(f"Making {commit_count} commits...")
 
     # Add daily header
