@@ -3,7 +3,7 @@ name: Auto Commit Every Day at 8 AM IST
 on:
   schedule:
     - cron: '30 2 * * *'  # Runs every day at 2:30 AM UTC (8:00 AM IST)
-  workflow_dispatch:      # Allow manual trigger too if you want
+  workflow_dispatch:      # Allow manual trigger too
 
 jobs:
   build:
@@ -26,9 +26,3 @@ jobs:
     - name: Run the auto-commit script
       run: |
         python3 script.py
-
-    - name: Push Changes
-      run: |
-        git add .
-        git commit -m "Auto commit (GitHub Actions)"
-        git push
