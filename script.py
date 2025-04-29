@@ -13,7 +13,6 @@ def append_line(commit_no):
     line = f"Commit {commit_no} made automatically on {now}\n"
     with open(file_path, "a") as file:
         file.write(line)
-    # Stage the file after writing
     subprocess.run(["git", "add", FILENAME], check=True)
 
 def git_commit(commit_no):
@@ -24,7 +23,7 @@ def make_daily_commits():
     commit_count = random.randint(2, 20)
     print(f"Making {commit_count} commits...")
 
-    # Add daily header once
+    # Add a date header once per day
     file_path = os.path.join(REPO_PATH, FILENAME)
     today = datetime.now().strftime("%Y-%m-%d")
     with open(file_path, "a") as file:
@@ -53,3 +52,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
