@@ -118,6 +118,3 @@ MIT — Use it, fork it, hack it. Just credit me. 🙌
 Automation nerd. Financial dabbler. GitHub streaker.  
 📊🚀 Made with ❤️ and `yfinance`.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L3nWlmE3wTk2k/giphy.gif" width="120px" />
-</p>
