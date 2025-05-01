@@ -2,28 +2,39 @@ import os
 import re
 from datetime import datetime, timedelta
 import subprocess
+from collections import defaultdict
 
 REPO_PATH = os.path.expanduser(".")
 LOG_FILE = "market_log.txt"
 PROFIT_LOG_FILE = "profit_log.txt"
 
-def extract_prices_from_log(date_str):
-    """Extract stock prices for a specific date."""
+def extract_latest_prices_by_date(date_str):
+    """Extract the latest price for each stock on a specific date."""
     filepath = os.path.join(REPO_PATH, LOG_FILE)
     if not os.path.exists(filepath):
         return {}
 
+    prices = {}
     with open(filepath, "r") as file:
-        content = file.read()
+        lines = file.readlines()
 
-    section_pattern = rf"=== Market Log: {date_str} ===\n(.*?)(?=\n===|\Z)"
-    match = re.search(section_pattern, content, re.DOTALL)
-    if not match:
-        return {}
+    inside_section = False
+    current_date = ""
+    for line in lines:
+        # Detect start of a new day
+        date_match = re.match(r"=== Market Log: (\d{4}-\d{2}-\d{2}) ===", line)
+        if date_match:
+            current_date = date_match.group(1)
+            inside_section = (current_date == date_str)
+            continue
 
-    section = match.group(1)
-    price_pattern = r"\s+([A-Z]+): \$([0-9]+\.[0-9]+)"
-    return {symbol: float(price) for symbol, price in re.findall(price_pattern, section)}
+        if inside_section:
+            match = re.match(r"\s+([A-Z]+): \$([0-9]+\.[0-9]+)", line)
+            if match:
+                symbol, price = match.groups()
+                prices[symbol] = float(price)
+
+    return prices
 
 def write_profit_log(date_str, total_value, total_profit, breakdown):
     filepath = os.path.join(REPO_PATH, PROFIT_LOG_FILE)
@@ -46,8 +57,8 @@ def main():
     yest = (today - timedelta(days=1)).strftime("%Y-%m-%d")
     prev = (today - timedelta(days=2)).strftime("%Y-%m-%d")
 
-    yest_prices = extract_prices_from_log(yest)
-    prev_prices = extract_prices_from_log(prev)
+    yest_prices = extract_latest_prices_by_date(yest)
+    prev_prices = extract_latest_prices_by_date(prev)
 
     total_value = 0
     total_profit = 0
@@ -56,7 +67,7 @@ def main():
     for symbol, y_price in yest_prices.items():
         p_price = prev_prices.get(symbol)
         if p_price is None:
-            continue  # Skip if no price for day-before
+            continue  # Skip if no day-before price
 
         change = y_price - p_price
         total_value += y_price
