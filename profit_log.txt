@@ -1,0 +1,3 @@
+📊 Daily Profit Log
+
+# This file contains calculated profit/loss for each snapshot day
