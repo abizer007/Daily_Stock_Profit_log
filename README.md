@@ -83,7 +83,7 @@ Want this script to run **24/7** without keeping your laptop on?
 MIT License. Use it, tweak it, automate your life.
 
 ## ✨ Author
-👨‍💻 **Aliasgar Sogiawala**  
+👨‍💻 **Abizer Masavi**  
 
 Built for **automation lovers** and **GitHub streak warriors** 🔥  
 
