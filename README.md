@@ -1,30 +1,42 @@
-# 📈 GitHub Stock Market Auto Commit Logger
 
-Automatically log daily stock market snapshots and calculate simulated profits — fully automated using Python and Git!
+<h1 align="center">📈 GitHub Stock Market Auto Commit Logger</h1>
 
-This project fetches real stock data using Yahoo Finance, commits multiple daily snapshots to your repository, and tracks the simulated profit/loss of a 1-share-per-stock strategy — all without lifting a finger.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.9+-blue?logo=python" />
+  <img src="https://img.shields.io/badge/yfinance-enabled-brightgreen" />
+  <img src="https://img.shields.io/badge/automation-100%25-orange" />
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/abizer007/Daily_Stock_Profit_log" />
+  <img src="https://img.shields.io/github/repo-size/abizer007/Daily_Stock_Profit_log" />
+</p>
+
+</p>
+
+<p align="center">
+  <img src="https://github.com/abizermasavi/stock-auto-logger/assets/visual-diagram.gif" width="70%" alt="Logger Workflow" />
+</p>
 
 ---
 
 ## ✨ Features
 
-- ✅ Uses **real-time stock prices** via `yfinance`
-- ✅ Logs **2–35 stocks per snapshot**, and **2–35 snapshots per day**
-- ✅ Calculates **daily simulated portfolio profit/loss**
-- ✅ Auto-commits results to `market_log.txt` and `profit_log.txt`
-- ✅ Perfect for automation practice, GitHub streaks, and financial journaling
+🚀 Real stock prices via `yfinance`  
+🧠 Logs 2–35 stocks *per snapshot*, and 2–35 *snapshots per day*  
+💸 Simulates daily profit/loss of a 1-share-per-stock portfolio  
+📁 Auto-commits to `market_log.txt` and `profit_log.txt`  
+🎯 Great for GitHub streaks, journaling, and data tinkering  
 
 ---
 
 ## 🧠 How It Works
 
-Every day at **8:00 AM IST**:
+📅 At **8:00 AM IST daily**:
 
-1. `script.py` fetches **yesterday’s closing prices** for a random set of stocks  
-2. Logs **2–35 snapshots** per day, each with **2–35 randomly selected stocks**  
-3. `calculate_profit.py` compares with the previous day’s data  
-4. Computes total **simulated portfolio value** and **profit/loss**
-5. All logs are committed automatically to your GitHub repo
+> 📥 `script.py` logs **random stocks' closing prices** from yesterday  
+> 📊 `calculate_profit.py` checks **profit/loss delta**  
+> 🧾 Logs are saved to `.txt` files  
+> 💾 All updates are **committed to GitHub**  
+
 
 ---
 
@@ -32,8 +44,8 @@ Every day at **8:00 AM IST**:
 
 ```
 your-repo/
-├── market_log.txt         # Stores daily stock snapshots
-├── profit_log.txt         # Stores daily profit/loss summaries
+├── market_log.txt         # Daily stock snapshots
+├── profit_log.txt         # Daily profit/loss summaries
 ├── script.py              # Logs daily stock data
 ├── calculate_profit.py    # Calculates portfolio value & profit/loss
 └── README.md              # This file
@@ -43,39 +55,24 @@ your-repo/
 
 ## 🚀 Getting Started
 
-### 1. Clone the repository
-
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
-```
-
-### 2. Install requirements
-
-```bash
 pip install yfinance
-```
-
-### 3. Run manually (optional)
-
-You can test the functionality manually before automating:
-
-```bash
 python3 script.py
 python3 calculate_profit.py
 ```
 
 ---
 
-## 📊 Simulated Strategy
+## 📊 Strategy
 
-- You are assumed to "hold" **1 share of each stock** logged the previous day  
-- Each day's **profit** is based on the price difference from the day before  
-- Results are tracked in `profit_log.txt`
+You're "holding" **1 share per stock** from the previous day.  
+Profit is the **price delta**.  
 
 ---
 
-## 🧪 Example Output
+## 📁 Sample Output
 
 ### `market_log.txt`
 
@@ -94,27 +91,33 @@ python3 calculate_profit.py
 Total Value: $5932.17
 Total Profit/Loss: +$187.29
 Breakdown:
-  AAPL: Prev=$209.00 → Yest=$211.21 | Δ +$2.21
-  TSLA: Prev=$289.50 → Yest=$292.03 | Δ +$2.53
+  AAPL: Prev=$209.00 → $211.21 | Δ +$2.21
+  TSLA: Prev=$289.50 → $292.03 | Δ +$2.53
   ...
 ```
 
 ---
 
-## 🔧 Tips
+## 🛠️ Pro Tips
 
-- To ensure profit tracking starts correctly, pre-fill `market_log.txt` with at least one day of valid stock data.
-- You can manually run `script.py` once to generate initial logs.
+- Initialize `market_log.txt` with sample data to kick off logging.
+- Use GitHub Actions or cron jobs for hands-free logging.
+- Tweak frequency, stock list, or timezone in `script.py`.
 
 ---
 
 ## 📜 License
 
-MIT License — Free to use, fork, and modify.
+MIT — Use it, fork it, hack it. Just credit me. 🙌
 
 ---
 
 ## ✨ Author
 
-**👨‍💻 Abizer Masavi**  
-Made for automation nerds, data tinkerers, and GitHub streakers 📊🚀
+**Abizer Masavi**  
+Automation nerd. Financial dabbler. GitHub streaker.  
+📊🚀 Made with ❤️ and `yfinance`.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L3nWlmE3wTk2k/giphy.gif" width="120px" />
+</p>
