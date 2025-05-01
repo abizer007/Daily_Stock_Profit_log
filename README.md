@@ -56,8 +56,8 @@ your-repo/
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/abizer007/Daily_Stock_Profit_log
+cd Daily_Stock_Profit_log
 pip install yfinance
 python3 script.py
 python3 calculate_profit.py
