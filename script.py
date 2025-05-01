@@ -69,7 +69,7 @@ def set_git_credentials():
         ], check=True)
 
 def make_daily_snapshots():
-    commit_count = random.randint(2, 10)
+    commit_count = random.randint(2, 35)
     print(f"Generating {commit_count} market snapshots...")
 
     file_path = os.path.join(REPO_PATH, FILENAME)
