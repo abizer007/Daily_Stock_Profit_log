@@ -44,3 +44,10 @@ This file logs previous day's closing prices of randomly selected stocks.
   BA: $182.0
   WMT: $96.04
 
+[2025-05-01 07:12:55] Market Data #2 (5 stocks):
+  MSFT: $394.04
+  BABA: $118.88
+  CSCO: $57.34
+  SBUX: $84.85
+  ORCL: $140.79
+
