@@ -9,3 +9,11 @@ Breakdown:
   AAPL: Prev=$170.15 → Yest=$172.00 | Δ $+1.85
   MSFT: Prev=$303.50 → Yest=$304.00 | Δ $+0.50
 
+
+=== Profit Log: 2025-05-01 ===
+Total Value: $605.25
+Total Profit/Loss: $+129.25
+Breakdown:
+  MSFT: Prev=$304.00 → Yest=$394.04 | Δ $+90.04
+  AAPL: Prev=$172.00 → Yest=$211.21 | Δ $+39.21
+
