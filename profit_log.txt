@@ -385,3 +385,34 @@ Breakdown:
   MRNA: Prev=$24.38 → Yest=$24.38 | Δ $+0.00
   SHOP: Prev=$94.00 → Yest=$94.00 | Δ $+0.00
 
+
+=== Profit Log: 2025-05-12 ===
+Total Value: $4889.81
+Total Profit/Loss: $+0.00
+Breakdown:
+  TSLA: Prev=$284.82 → Yest=$284.82 | Δ $+0.00
+  PYPL: Prev=$70.48 → Yest=$70.48 | Δ $+0.00
+  DIS: Prev=$105.12 → Yest=$105.12 | Δ $+0.00
+  NVDA: Prev=$117.37 → Yest=$117.37 | Δ $+0.00
+  CSCO: Prev=$59.71 → Yest=$59.71 | Δ $+0.00
+  MRNA: Prev=$24.38 → Yest=$24.38 | Δ $+0.00
+  ORCL: Prev=$150.30 → Yest=$150.30 | Δ $+0.00
+  JNJ: Prev=$155.66 → Yest=$155.66 | Δ $+0.00
+  MSFT: Prev=$438.17 → Yest=$438.17 | Δ $+0.00
+  NKE: Prev=$58.91 → Yest=$58.91 | Δ $+0.00
+  IBM: Prev=$252.46 → Yest=$252.46 | Δ $+0.00
+  T: Prev=$27.47 → Yest=$27.47 | Δ $+0.00
+  PEP: Prev=$131.43 → Yest=$131.43 | Δ $+0.00
+  AMD: Prev=$101.70 → Yest=$101.70 | Δ $+0.00
+  AMZN: Prev=$192.08 → Yest=$192.08 | Δ $+0.00
+  LYFT: Prev=$13.00 → Yest=$13.00 | Δ $+0.00
+  NFLX: Prev=$1144.43 → Yest=$1144.43 | Δ $+0.00
+  MA: Prev=$567.12 → Yest=$567.12 | Δ $+0.00
+  QCOM: Prev=$145.10 → Yest=$145.10 | Δ $+0.00
+  WMT: Prev=$97.19 → Yest=$97.19 | Δ $+0.00
+  GOOGL: Prev=$154.28 → Yest=$154.28 | Δ $+0.00
+  KO: Prev=$71.17 → Yest=$71.17 | Δ $+0.00
+  SHOP: Prev=$94.00 → Yest=$94.00 | Δ $+0.00
+  V: Prev=$351.27 → Yest=$351.27 | Δ $+0.00
+  SBUX: Prev=$82.19 → Yest=$82.19 | Δ $+0.00
+
