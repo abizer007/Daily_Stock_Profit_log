@@ -12851,3 +12851,13 @@ This file logs previous day's closing prices of randomly selected stocks.
   XOM: $109.99
   ORCL: $212.82
 
+[2025-06-28 03:31:29] Market Data #2 (8 stocks):
+  T: $28.0
+  INTC: $22.5
+  MRNA: $27.54
+  PFE: $24.24
+  TSLA: $325.78
+  KO: $69.47
+  SHOP: $113.07
+  UBER: $93.12
+
