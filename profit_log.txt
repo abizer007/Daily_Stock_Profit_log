@@ -2541,3 +2541,44 @@ Breakdown:
   CSCO: Prev=$68.76 → Yest=$67.95 | Δ $-0.81
   SHOP: Prev=$115.16 → Yest=$112.11 | Δ $-3.05
 
+
+=== Profit Log: 2025-07-16 ===
+Total Value: $7598.39
+Total Profit/Loss: $+35.82
+Breakdown:
+  XOM: Prev=$115.43 → Yest=$113.92 | Δ $-1.51
+  WMT: Prev=$94.40 → Yest=$95.78 | Δ $+1.38
+  GOOGL: Prev=$180.19 → Yest=$181.56 | Δ $+1.37
+  CRM: Prev=$258.07 → Yest=$259.68 | Δ $+1.61
+  AAPL: Prev=$211.16 → Yest=$208.62 | Δ $-2.54
+  PYPL: Prev=$71.36 → Yest=$73.89 | Δ $+2.53
+  DIS: Prev=$119.87 → Yest=$119.97 | Δ $+0.10
+  BA: Prev=$226.84 → Yest=$230.51 | Δ $+3.67
+  PFE: Prev=$25.65 → Yest=$25.35 | Δ $-0.30
+  AMD: Prev=$146.42 → Yest=$146.24 | Δ $-0.18
+  MSFT: Prev=$503.32 → Yest=$503.02 | Δ $-0.30
+  PEP: Prev=$135.26 → Yest=$135.57 | Δ $+0.31
+  MRNA: Prev=$33.64 → Yest=$32.87 | Δ $-0.77
+  QCOM: Prev=$157.46 → Yest=$154.29 | Δ $-3.17
+  LYFT: Prev=$14.91 → Yest=$14.92 | Δ $+0.01
+  T: Prev=$26.97 → Yest=$27.16 | Δ $+0.19
+  MA: Prev=$550.18 → Yest=$553.02 | Δ $+2.84
+  ADBE: Prev=$363.35 → Yest=$366.99 | Δ $+3.64
+  NVDA: Prev=$164.92 → Yest=$164.07 | Δ $-0.85
+  UBER: Prev=$95.39 → Yest=$93.89 | Δ $-1.50
+  ORCL: Prev=$230.56 → Yest=$229.28 | Δ $-1.28
+  SHOP: Prev=$112.11 → Yest=$116.74 | Δ $+4.63
+  AMZN: Prev=$225.02 → Yest=$225.69 | Δ $+0.67
+  JNJ: Prev=$156.90 → Yest=$156.82 | Δ $-0.08
+  V: Prev=$347.93 → Yest=$350.50 | Δ $+2.57
+  CSCO: Prev=$67.95 → Yest=$67.82 | Δ $-0.13
+  META: Prev=$717.51 → Yest=$720.92 | Δ $+3.41
+  BABA: Prev=$106.72 → Yest=$108.22 | Δ $+1.50
+  KO: Prev=$69.87 → Yest=$69.47 | Δ $-0.40
+  TSLA: Prev=$313.51 → Yest=$316.90 | Δ $+3.39
+  IBM: Prev=$283.59 → Yest=$283.79 | Δ $+0.20
+  NFLX: Prev=$1245.11 → Yest=$1261.95 | Δ $+16.84
+  SBUX: Prev=$94.94 → Yest=$93.42 | Δ $-1.52
+  NKE: Prev=$72.63 → Yest=$72.25 | Δ $-0.38
+  INTC: Prev=$23.43 → Yest=$23.30 | Δ $-0.13
+
