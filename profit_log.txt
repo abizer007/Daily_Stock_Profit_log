@@ -4256,3 +4256,30 @@ Breakdown:
   XOM: Prev=$111.28 → Yest=$111.74 | Δ $+0.46
   KO: Prev=$70.13 → Yest=$68.93 | Δ $-1.20
 
+
+=== Profit Log: 2025-08-28 ===
+Total Value: $2911.99
+Total Profit/Loss: $+11.54
+Breakdown:
+  JNJ: Prev=$178.41 → Yest=$176.49 | Δ $-1.92
+  BABA: Prev=$124.35 → Yest=$124.19 | Δ $-0.16
+  AMD: Prev=$163.36 → Yest=$166.62 | Δ $+3.26
+  NKE: Prev=$79.17 → Yest=$78.65 | Δ $-0.52
+  QCOM: Prev=$156.42 → Yest=$159.17 | Δ $+2.75
+  AMZN: Prev=$227.94 → Yest=$228.71 | Δ $+0.77
+  CSCO: Prev=$67.14 → Yest=$68.39 | Δ $+1.25
+  TSLA: Prev=$346.60 → Yest=$351.67 | Δ $+5.07
+  ORCL: Prev=$235.41 → Yest=$234.21 | Δ $-1.20
+  MRNA: Prev=$25.35 → Yest=$24.73 | Δ $-0.62
+  GOOGL: Prev=$208.49 → Yest=$207.14 | Δ $-1.35
+  AAPL: Prev=$227.16 → Yest=$229.31 | Δ $+2.15
+  SBUX: Prev=$85.81 → Yest=$86.63 | Δ $+0.82
+  UBER: Prev=$95.16 → Yest=$96.53 | Δ $+1.37
+  NVDA: Prev=$179.81 → Yest=$181.77 | Δ $+1.96
+  PEP: Prev=$148.20 → Yest=$147.00 | Δ $-1.20
+  KO: Prev=$68.93 → Yest=$68.73 | Δ $-0.20
+  INTC: Prev=$24.55 → Yest=$24.35 | Δ $-0.20
+  T: Prev=$28.74 → Yest=$28.56 | Δ $-0.18
+  XOM: Prev=$111.74 → Yest=$111.49 | Δ $-0.25
+  DIS: Prev=$117.71 → Yest=$117.65 | Δ $-0.06
+
