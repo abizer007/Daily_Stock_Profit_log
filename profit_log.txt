@@ -5062,3 +5062,15 @@ Breakdown:
   CRM: Prev=$246.28 → Yest=$242.76 | Δ $-3.52
   AMD: Prev=$155.67 → Yest=$158.57 | Δ $+2.90
 
+
+=== Profit Log: 2025-09-17 ===
+Total Value: $1724.63
+Total Profit/Loss: $+21.86
+Breakdown:
+  NVDA: Prev=$177.82 → Yest=$177.75 | Δ $-0.07
+  AMZN: Prev=$228.15 → Yest=$231.43 | Δ $+3.28
+  TSLA: Prev=$395.94 → Yest=$410.04 | Δ $+14.10
+  IBM: Prev=$253.44 → Yest=$256.24 | Δ $+2.80
+  MA: Prev=$580.41 → Yest=$582.96 | Δ $+2.55
+  KO: Prev=$67.01 → Yest=$66.21 | Δ $-0.80
+
