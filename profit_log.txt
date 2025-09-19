@@ -5074,3 +5074,15 @@ Breakdown:
   MA: Prev=$580.41 → Yest=$582.96 | Δ $+2.55
   KO: Prev=$67.01 → Yest=$66.21 | Δ $-0.80
 
+
+=== Profit Log: 2025-09-18 ===
+Total Value: $1740.73
+Total Profit/Loss: $+16.10
+Breakdown:
+  AMZN: Prev=$231.43 → Yest=$234.05 | Δ $+2.62
+  IBM: Prev=$256.24 → Yest=$257.52 | Δ $+1.28
+  KO: Prev=$66.21 → Yest=$66.24 | Δ $+0.03
+  TSLA: Prev=$410.04 → Yest=$421.62 | Δ $+11.58
+  MA: Prev=$582.96 → Yest=$586.42 | Δ $+3.46
+  NVDA: Prev=$177.75 → Yest=$174.88 | Δ $-2.87
+
