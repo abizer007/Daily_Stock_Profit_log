@@ -5808,3 +5808,29 @@ Breakdown:
   UBER: Prev=$96.61 → Yest=$96.61 | Δ $+0.00
   AMD: Prev=$169.73 → Yest=$169.73 | Δ $+0.00
 
+
+=== Profit Log: 2025-10-07 ===
+Total Value: $4539.71
+Total Profit/Loss: $-13.34
+Breakdown:
+  LYFT: Prev=$22.61 → Yest=$21.99 | Δ $-0.62
+  T: Prev=$27.01 → Yest=$27.06 | Δ $+0.05
+  IBM: Prev=$286.72 → Yest=$288.37 | Δ $+1.65
+  NKE: Prev=$74.57 → Yest=$71.93 | Δ $-2.64
+  V: Prev=$345.95 → Yest=$349.84 | Δ $+3.89
+  UBER: Prev=$96.61 → Yest=$96.60 | Δ $-0.01
+  GOOGL: Prev=$245.69 → Yest=$245.35 | Δ $-0.34
+  TSLA: Prev=$436.00 → Yest=$429.83 | Δ $-6.17
+  MRNA: Prev=$28.37 → Yest=$28.49 | Δ $+0.12
+  KO: Prev=$66.10 → Yest=$66.65 | Δ $+0.55
+  QCOM: Prev=$168.85 → Yest=$169.18 | Δ $+0.33
+  WMT: Prev=$101.70 → Yest=$102.07 | Δ $+0.37
+  NFLX: Prev=$1162.53 → Yest=$1153.32 | Δ $-9.21
+  PYPL: Prev=$68.93 → Yest=$69.25 | Δ $+0.32
+  CRM: Prev=$238.88 → Yest=$240.36 | Δ $+1.48
+  ADBE: Prev=$351.48 → Yest=$346.74 | Δ $-4.74
+  INTC: Prev=$37.30 → Yest=$36.83 | Δ $-0.47
+  MA: Prev=$577.33 → Yest=$580.45 | Δ $+3.12
+  BABA: Prev=$189.34 → Yest=$188.03 | Δ $-1.31
+  PFE: Prev=$27.08 → Yest=$27.37 | Δ $+0.29
+
