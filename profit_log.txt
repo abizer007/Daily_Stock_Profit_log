@@ -6953,3 +6953,27 @@ Breakdown:
   V: Prev=$340.74 → Yest=$336.90 | Δ $-3.84
   XOM: Prev=$114.36 → Yest=$113.76 | Δ $-0.60
 
+
+=== Profit Log: 2025-11-06 ===
+Total Value: $3716.47
+Total Profit/Loss: $-45.29
+Breakdown:
+  PEP: Prev=$143.60 → Yest=$142.90 | Δ $-0.70
+  DIS: Prev=$112.12 → Yest=$111.47 | Δ $-0.65
+  WMT: Prev=$101.59 → Yest=$102.27 | Δ $+0.68
+  JNJ: Prev=$186.26 → Yest=$186.86 | Δ $+0.60
+  MRNA: Prev=$24.91 → Yest=$23.75 | Δ $-1.16
+  BA: Prev=$204.55 → Yest=$198.05 | Δ $-6.50
+  UBER: Prev=$99.72 → Yest=$94.67 | Δ $-5.05
+  MA: Prev=$544.07 → Yest=$552.75 | Δ $+8.68
+  AMD: Prev=$259.65 → Yest=$250.05 | Δ $-9.60
+  QCOM: Prev=$180.72 → Yest=$172.84 | Δ $-7.88
+  ADBE: Prev=$337.47 → Yest=$335.35 | Δ $-2.12
+  V: Prev=$336.90 → Yest=$340.30 | Δ $+3.40
+  KO: Prev=$67.97 → Yest=$68.66 | Δ $+0.69
+  T: Prev=$24.53 → Yest=$24.44 | Δ $-0.09
+  CSCO: Prev=$74.45 → Yest=$72.32 | Δ $-2.13
+  ORCL: Prev=$257.85 → Yest=$248.17 | Δ $-9.68
+  META: Prev=$637.71 → Yest=$627.32 | Δ $-10.39
+  BABA: Prev=$167.69 → Yest=$164.30 | Δ $-3.39
+
