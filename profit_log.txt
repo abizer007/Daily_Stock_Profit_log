@@ -8542,3 +8542,44 @@ Breakdown:
   UBER: Prev=$85.11 → Yest=$81.86 | Δ $-3.25
   NVDA: Prev=$175.02 → Yest=$176.29 | Δ $+1.27
 
+
+=== Profit Log: 2025-12-18 ===
+Total Value: $6889.39
+Total Profit/Loss: $+6.49
+Breakdown:
+  LYFT: Prev=$19.12 → Yest=$19.19 | Δ $+0.07
+  INTC: Prev=$37.51 → Yest=$37.31 | Δ $-0.20
+  CRM: Prev=$254.58 → Yest=$254.91 | Δ $+0.33
+  BABA: Prev=$150.09 → Yest=$149.29 | Δ $-0.80
+  GOOGL: Prev=$308.22 → Yest=$306.57 | Δ $-1.65
+  PYPL: Prev=$60.74 → Yest=$61.33 | Δ $+0.59
+  NVDA: Prev=$176.29 → Yest=$177.72 | Δ $+1.43
+  ADBE: Prev=$351.15 → Yest=$347.89 | Δ $-3.26
+  AMZN: Prev=$222.54 → Yest=$222.56 | Δ $+0.02
+  AAPL: Prev=$274.11 → Yest=$274.61 | Δ $+0.50
+  T: Prev=$24.31 → Yest=$24.07 | Δ $-0.24
+  WMT: Prev=$116.79 → Yest=$115.42 | Δ $-1.37
+  JNJ: Prev=$214.17 → Yest=$209.30 | Δ $-4.87
+  BA: Prev=$205.50 → Yest=$206.71 | Δ $+1.21
+  ORCL: Prev=$184.92 → Yest=$188.65 | Δ $+3.73
+  MRNA: Prev=$29.92 → Yest=$29.89 | Δ $-0.03
+  PFE: Prev=$26.43 → Yest=$25.53 | Δ $-0.90
+  SBUX: Prev=$85.40 → Yest=$85.08 | Δ $-0.32
+  NFLX: Prev=$93.77 → Yest=$94.57 | Δ $+0.80
+  QCOM: Prev=$179.26 → Yest=$176.12 | Δ $-3.14
+  XOM: Prev=$117.76 → Yest=$114.68 | Δ $-3.08
+  META: Prev=$647.51 → Yest=$657.15 | Δ $+9.64
+  PEP: Prev=$151.22 → Yest=$150.37 | Δ $-0.85
+  SHOP: Prev=$159.85 → Yest=$163.14 | Δ $+3.29
+  UBER: Prev=$81.86 → Yest=$80.92 | Δ $-0.94
+  TSLA: Prev=$475.31 → Yest=$489.88 | Δ $+14.57
+  AMD: Prev=$207.58 → Yest=$209.17 | Δ $+1.59
+  DIS: Prev=$110.49 → Yest=$111.62 | Δ $+1.13
+  NKE: Prev=$67.78 → Yest=$67.12 | Δ $-0.66
+  KO: Prev=$70.97 → Yest=$70.37 | Δ $-0.60
+  IBM: Prev=$308.66 → Yest=$303.18 | Δ $-5.48
+  MSFT: Prev=$474.82 → Yest=$476.39 | Δ $+1.57
+  CSCO: Prev=$78.25 → Yest=$77.55 | Δ $-0.70
+  MA: Prev=$569.13 → Yest=$566.02 | Δ $-3.11
+  V: Prev=$346.89 → Yest=$345.11 | Δ $-1.78
+
